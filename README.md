@@ -1,8 +1,8 @@
 ## Sidimir Henrique de Paula Souza 
 **`Desenvolvedor Back-End`**
 <div>
-<img height="180em" src="https://github-readme-stats.vercel.app/api?username=SidimirPSouza&theme=shadow_red&show_icons=true&include_all_commits=true&count_private=true"/>
-<img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=SidimirPSouza&layout=compact&langs_count=16&theme=shadow_red"/>
+<img height="48%" src="https://github-readme-stats.vercel.app/api?username=SidimirPSouza&theme=shadow_red&show_icons=true&include_all_commits=true&count_private=true"/>
+<img height="48%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=SidimirPSouza&layout=compact&langs_count=16&theme=shadow_red"/>
 </div>
 
 <div style="display: inline_block"><br>
