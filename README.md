@@ -30,7 +30,7 @@
 <img 
    align="left" 
    alt="GitHub Stats" 
-   height="170" 
+   height="160" 
    wight="auto"
    src="https://github-readme-stats.vercel.app/api/top-langs/?username=SidimirPSouza&layout=compact&langs_count=16&theme=shadow_red"/>
 </p>
