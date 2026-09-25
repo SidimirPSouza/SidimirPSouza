@@ -25,14 +25,14 @@
   height="200" 
   wight="auto"
   style="padding-right: 10px;"  
-  src="https://github-readme-stats.vercel.app/api?username=SidimirPSouza&theme=shadow_red&show_icons=true&include_all_commits=true&count_private=true"/>
+  src="https://github-stats-extended.vercel.app/api?username=SidimirPSouza&theme=shadow_red&show_icons=true&include_all_commits=true&count_private=true"/>
  
 <img 
    align="left" 
    alt="GitHub Stats" 
    height="160" 
    wight="auto"
-   src="https://github-readme-stats.vercel.app/api/top-langs/?username=SidimirPSouza&layout=compact&langs_count=16&theme=shadow_red"/>
+   src="https://github-stats-extended.vercel.app/api/top-langs/?username=SidimirPSouza&layout=compact&langs_count=16&theme=shadow_red"/>
 </p>
 
 
